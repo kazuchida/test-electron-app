@@ -1,0 +1,15 @@
+{
+  "name": "test-electron-app",
+  "version": "0.1.0",
+  "description": "test electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuchida",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.0"
+  }
+}
