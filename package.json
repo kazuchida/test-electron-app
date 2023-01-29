@@ -10,6 +10,6 @@
   "author": "kuchida",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^18.3.7"
+    "electron": "^22.1.0"
   }
 }
